@@ -81,12 +81,11 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      body {
-  background-image: url('https://i.ibb.co/d4yK5t3H/9fbe1ffc5fae7f47b9eedcba12e8c310.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: white;
-}
+      background-image: url('https://i.ibb.co/Y7pSw8n/0619bf4938a774e6cb5f4eea1ce28559.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      color: white;
+    }
     .container {
       max-width: 350px;
       height: auto;
